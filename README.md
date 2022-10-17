@@ -5,5 +5,15 @@ Presently, there are manual specialists who examine highlights of a real estate 
 
 We need to examine the information appropriately, understanding the highlights and afterward carrying out different models on it and choosing the best one for the task which will give us precise cost for the houses in that specific zone. It will help the land organization to acquire benefits by utilizing this House Price Prediction ML model.
 
-Technologies Used
-https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667
+Technologies Used:
+Python,Pandas,Numpy,Matplotlip,seaborn,Scikitlearn
+
+Prediction:
+
+LinearRegression : R2 - SCORE: 0.8668473591354626.
+KNearNeighbourRegressor : R2 - SCORE: 0.9404638437137571
+DecisionTreeRegressor : R2- SCORE: 0.9687255622666248
+RandomForestRegressor : R2- SCORE: 0.9854710851894488
+XGBoostRegressor : R2 - SCORE:0.9930703086265772
+
+
